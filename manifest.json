@@ -17,5 +17,6 @@
     ],
     "background": {
         "service_worker": "event.js"
-    }
+    },
+    "description": "An easy to use extension to help you stay focused on productivity by blocking you out of the most popular entertainment websites:)"
 }
